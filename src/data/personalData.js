@@ -5,11 +5,11 @@ export const personalInfo = {
   tagline: "Delivering scalable systems from code to cloud.",
   location: "India",
   avatar: "/images/avatar.jpg", // Placeholder - replace with actual image
-  email: "koushik.samui@example.com", // Replace with actual email
-  phone: "+91 XXXXXXXXXX", // Replace with actual phone
-  linkedin: "https://linkedin.com/in/koushik-samui", // Replace with actual LinkedIn
-  github: "https://github.com/koushik-samui", // Replace with actual GitHub
-  website: "https://koushik-samui.dev", // Replace with actual website
+  email: "koushiksamui.dev@gmail.com", // Replace with actual email
+  phone: "+91 7557031037", // Replace with actual phone
+  linkedin: "https://www.linkedin.com/in/koushik-samui-3b56a4223/", 
+  github: "https://github.com/koushiksamui", 
+  website: "https://my-portfolio-alpha-sand-23.vercel.app/", 
   availability: "Open to full-time/remote DevOps and full-stack roles or freelance opportunities"
 };
 

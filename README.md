@@ -73,8 +73,8 @@ A modern, responsive personal portfolio website built with React.js and Tailwind
 
 1. Clone the repository
 ```bash
-git clone https://github.com/koushik-samui/portfolio.git
-cd portfolio
+git clone https://github.com/koushiksamui/my-portfolio.git
+cd my-portfolio
 ```
 
 2. Install dependencies

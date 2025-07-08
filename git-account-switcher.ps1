@@ -2,8 +2,8 @@
 # Place this in your PowerShell profile or run manually
 
 function Set-GitWork {
-    git config user.name "koushiksamui"
-    git config user.email "samuikoushi95@gmail.com"
+    git config user.name "tellyoudoc"
+    git config user.email "tellyoudoc@gmail.com"
     Write-Host "Switched to work Git account" -ForegroundColor Green
 }
 

@@ -23,19 +23,19 @@ export const projects = [
       "Optimizing chart performance for large datasets",
       "Setting up comprehensive error tracking and monitoring"
     ],
-    date: "2024"
+    date: "2025"
   },
   {
     id: 2,
     title: "DevOps CI/CD Pipeline",
     description: "Automated deployment pipeline using GitHub Actions, Docker, and AWS EC2 for seamless application delivery from development to production.",
     longDescription: "Designed and implemented a complete CI/CD pipeline that automates the entire deployment process. The pipeline includes automated testing, containerization, security scanning, and zero-downtime deployment to AWS infrastructure.",
-    technologies: ["GitHub Actions", "Docker", "AWS EC2", "NGINX", "PM2", "Shell Scripting"],
+    technologies: ["GitHub Actions", "Docker", "AWS EC2", "Shell Scripting"],
     category: "DevOps",
     status: "completed",
     demoUrl: "",
-    githubUrl: "",
-    imageUrl: "/images/projects/cicd-pipeline.jpg",
+    githubUrl: "https://github.com/TellYouDoc/test_ci_cd_with_docker.git",
+    imageUrl: "/src/assets/ci_cd_docker.png",
     features: [
       "Automated testing and code quality checks",
       "Docker containerization for consistent deployments",
@@ -48,7 +48,7 @@ export const projects = [
       "Managing environment-specific configurations",
       "Setting up comprehensive monitoring and alerting"
     ],
-    date: "2024"
+    date: "2025"
   },
   {
     id: 3,
@@ -133,9 +133,9 @@ export const projects = [
     technologies: ["React.js", "Tailwind CSS", "Vite", "EmailJS", "Framer Motion"],
     category: "Frontend",
     status: "completed",
-    demoUrl: "https://koushik-samui.dev", // Replace with actual URL
-    githubUrl: "", // Add actual GitHub URL
-    imageUrl: "/images/projects/portfolio.jpg",
+    demoUrl: "https://koushik-samui.dev", 
+    githubUrl: "https://github.com/koushiksamui/my-portfolio.git", 
+    imageUrl: "/src/assets/portfolio.png",
     features: [
       "Fully responsive design",
       "Modern UI with smooth animations",

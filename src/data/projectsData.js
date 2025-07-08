@@ -35,7 +35,7 @@ export const projects = [
     status: "completed",
     demoUrl: "",
     githubUrl: "https://github.com/TellYouDoc/test_ci_cd_with_docker.git",
-    imageUrl: "/src/assets/ci_cd_docker.png",
+    imageUrl: "/images/projects/ci_cd_docker.png",
     features: [
       "Automated testing and code quality checks",
       "Docker containerization for consistent deployments",
@@ -133,9 +133,9 @@ export const projects = [
     technologies: ["React.js", "Tailwind CSS", "Vite", "EmailJS", "Framer Motion"],
     category: "Frontend",
     status: "completed",
-    demoUrl: "https://koushik-samui.dev", 
+    demoUrl: "https://my-portfolio-alpha-sand-23.vercel.app/", 
     githubUrl: "https://github.com/koushiksamui/my-portfolio.git", 
-    imageUrl: "/src/assets/portfolio.png",
+    imageUrl: "/images/projects/portfolio.png",
     features: [
       "Fully responsive design",
       "Modern UI with smooth animations",

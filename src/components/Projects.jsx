@@ -23,7 +23,7 @@ const Projects = () => {
               e.target.nextSibling.style.display = 'flex';
             }}
           />
-          <div className="w-full h-full flex items-center justify-center text-6xl gradient-text hidden">
+          <div className="w-full h-full items-center justify-center text-6xl gradient-text hidden">
             <Code />
           </div>
         </div>
